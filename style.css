@@ -1,0 +1,13 @@
+body{
+    background: lightblue;
+}
+footer p{
+    width: 100%;
+    height: 50px;
+    padding-left: 10px;
+    line-height: 50px;
+    background: lightpink;
+    color: black;
+    text-align: center;
+}
+
