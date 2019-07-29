@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BIODATA DIRI</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<br>
+<hr align="nilai">
+<br>
+<h1 align="center">BIODATA DIRI</h1>
+<table width="745" border="1" cellspacing="0" cellpadding="5" align="center">
+<tr align="center" bgcolor="lightgreen">
+<td width="174">DATA DIRI</td>
+<td width="353">KETERANGAN</td>
+<td width+"232">FOTO</td>
+</tr>
+<tr align="center" bgcolor="lightsalmon">
+<td>Nama</td>
+<td>Muhamad Ryan Hidayat</td>
+<td rowspan="10" align="center"><img src="assets/img/iyaw.jpeg" width="210" height="270"
+</tr>
+<tr align="center" bgcolor="lightskyblue">
+<td>Jurusan</td>
+<td>Rekayasa Perangkat Lunak 1</td>
+</tr>
+<tr align="center" bgcolor="lightgoldenrodyellow">
+<td>Kelas</td>
+<td>XI</td>
+</tr>
+<tr align="center" bgcolor="lightgrey">
+<td>Sekolah</td>
+<td>SMK JAKARTA PUSAT 1</td>
+</tr>
+<tr align="center" bgcolor="lightpink">
+<td>Jenis Kelamin</td>
+<td>Laki-laki</td>
+</tr>
+<tr align="center" bgcolor="lightcoral">
+<td>Tempat/Tanggal Lahir</td>
+<td>Jakarta, 16 Juni 2003</td>
+</tr>
+<tr align="center" bgcolor="lightgrey">
+<td>Alamat</td>
+<td>JL.G RUSUN Karang Anyar, JAKPUS
+</tr>
+<tr align="center" bgcolor="lightgoldenrodyellow">
+<td>No Hp</td>
+<td>081213757502
+</tr>
+<tr align="center" bgcolor="lightskyblue">
+<td>Email</td>
+<td>ryanhidayat074@gmail.com
+</tr>
+<tr align="center" bgcolor="lightgreen">
+<td>Pekerjaan</td>
+<td>Pelajar</td>
+</tr>
+<tr align="center" bgcolor="lightsalmon">
+<td>Hobi</td>
+<td>Berenang</td>
+</tr>
+</table>
+<footer>
+    <p> &copy; M.Ryan Hidayat, SMK Jakarta Pusat 1 </p>
+   </footer>
+</body>
+</html>
